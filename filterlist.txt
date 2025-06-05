@@ -1,3 +1,4 @@
+! Title: 🎙 Never gonna rickroll me
 *##a[href*="/watch?v=dQw4w9WgXcQ"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=oHg5SJYRHA0"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=p7YXXieghto"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
