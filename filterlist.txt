@@ -37,6 +37,14 @@
 *##a[href*="/watch?v=LLFhKaqnWwk"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=3BFTio5296w"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=o-YBDTqX_ZU"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+! ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+*##a[href*="/watch?v=EE-xtCF3T94"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=V-_O7nl0Ii0"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=cqF6M25kqq4"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=0SoNH07Slj0"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=xfr64zoBTAQ"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=j5a0jTc9S10"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=dPmZqsQNzGA"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 
 
 *##a[href$="imgur.com/gallery/yed5Zfk"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
