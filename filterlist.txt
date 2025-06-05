@@ -30,6 +30,14 @@
 *##a[href*="youtube-nocookie.com/embed/xvFZjo5PgG0"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="youtube-nocookie.com/embed/XGxIE1hr0w4"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="youtube-nocookie.com/embed/7_pRiUfp938"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+
+!Extension by valooost:
+*##a[href*="/watch?v=lYBUbBu4W08"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=LLFhKaqnWwk"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=3BFTio5296w"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=o-YBDTqX_ZU"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+
+
 *##a[href$="imgur.com/gallery/yed5Zfk"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="imgur.com/yed5Zfk"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="rr.noordstar.me"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
