@@ -45,7 +45,7 @@
 *##a[href*="/watch?v=xfr64zoBTAQ"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=j5a0jTc9S10"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=dPmZqsQNzGA"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-
+*##a[href*="/watch?v=BF7rCEgvJ5M"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 
 *##a[href$="imgur.com/gallery/yed5Zfk"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="imgur.com/yed5Zfk"]::before:style(content: "(Warning: Rickroll) " !important; color: #E6000D !important; visibility: visible)
